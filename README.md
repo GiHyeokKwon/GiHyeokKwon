@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20World!%20🔮&animation=fadeIn&fontColor=000000&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=navy&height=120&text=Hello%20World!%20🔮&animation=fadeIn&fontColor=000000&fontSize=50)
 
 <!--
 **GiHyeokKwon/GiHyeokKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
