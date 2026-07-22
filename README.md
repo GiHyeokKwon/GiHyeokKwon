@@ -1,7 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello,%20I'm%20GiHyeok%20Kwon!%20🙇‍♂️&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
-
 <div style="text-align: left;"> 
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hi there </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
@@ -15,10 +14,23 @@
             <li><b>Inha University, Korea</b> | B.S. in Electrical and Electronic Engineering (Mar. 2022 ~ present)</li>
         </ul>
         * I'm highly interested in <b>Computer Vision</b> and <b>Physical AI</b>.
+        <h2>🏆 Awards</h2>
+        <ul>
+            <li><b>Grand Prize (President's Award)</b>, Carbon Neutrality Innovation Academy 6th Cohort, Inha University SW-Centered University Project Division (Jun. 2026)</li>
+            <li><b>Gold Award</b>, 2026 Idea Competition, Inha Innovation Center for Engineering Education (Jun. 2026)</li>
+            <li><b>Gold Award</b>, 2026 Drone Application Idea Competition, Inha University Aviation Drone Business Division (Apr. 2026)</li>
+            <li><b>Excellence Award</b>, 2025 Data Creator Camp, Ministry of Science and ICT (Nov. 2025)</li>
+        </ul>
+        <h2>🎓 Scholarships</h2>
+        <ul>
+            <li><b>Korea President Science Scholarship</b>, Government of Korea (Jun. 2026)</li>
+            <li><b>KT Digital Talent Scholarship</b>, KT Hope & Sharing Foundation (Mar. 2026)</li>
+            <li><b>Academic Excellence Scholarship</b>, Inha University (Aug. 2023, Feb. 2026)</li>
+        </ul>
         <h2>⚡Projects:</h2>
         <ul>
             <li><b>[KISTI, 2025]</b> DATA-AI Analysis Competition: Generative AI-driven Concrete Inspection for Real-world Field Adaptation</li>
-            <li><b>[K-ICT, 2025]</b> Data Creator Camp: Air pollutant emission source detection using satellite imagery and multimodal deep learning (🏆 President’s Award from NIA) <a href="https://github.com/GiHyeokKwon/DCC2025.git">...go</li>
+            <li><b>[K-ICT, 2025]</b> Data Creator Camp: Air pollutant emission source detection using satellite imagery and multimodal deep learning (🏆 President's Award from NIA) <a href="https://github.com/GiHyeokKwon/DCC2025.git">...go</li>
         </ul>
         <h2>🪄 Research & Interests:</h2>
         <ul>
@@ -28,7 +40,6 @@
         </ul>
     </div>
 </div>
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="text-align: left;">
@@ -44,7 +55,6 @@
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
     </div>
 </div>
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
     <div style="text-align: left;">
