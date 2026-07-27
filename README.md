@@ -46,6 +46,11 @@ Implementation and Data Analysis (Aug. 2025 ~ Dec. 2025) <a href="https://github
             <li>Reinforcement Learning for Robot Control</li>
             <li>Vision-Languague-Action (VLA)</li>
         </ul>
+        <h2>📜 Certifications</h2>
+        <ul>
+            <li>SQL Developer (SQLD)</li>
+            <li>Linux Master Level 2</li>
+        </ul>
     </div>
 </div>
 <div style="text-align: left;">
