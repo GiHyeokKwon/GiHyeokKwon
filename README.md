@@ -38,7 +38,7 @@ Applicability</b>, RoboCup@Home 2026, Korea / Development of Object Grasping and
 Pipeline for Household Tasks (Dec. 2025 ~ Feb. 2026)</li>
             <li><b>Detection of Air Pollution Emission Sources Using Satellite Imagery and Multimodal Deep
 Learning</b>, Ministry of Science and ICT, Korea / Multimodal Deep Learning Model
-Implementation and Data Analysis (Aug. 2025 ~ Dec. 2025)(🏆 President's Award from NIA) <a href="https://github.com/GiHyeokKwon/DCC2025.git">...go</li>
+Implementation and Data Analysis (Aug. 2025 ~ Dec. 2025) <a href="https://github.com/GiHyeokKwon/DCC2025.git">...go</li>
         </ul>
         <h2>🪄 Research & Interests:</h2>
         <ul>
