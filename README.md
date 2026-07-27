@@ -29,8 +29,16 @@
         </ul>
         <h2>⚡Projects:</h2>
         <ul>
-            <li><b>[KISTI, 2025]</b> DATA-AI Analysis Competition: Generative AI-driven Concrete Inspection for Real-world Field Adaptation</li>
-            <li><b>[K-ICT, 2025]</b> Data Creator Camp: Air pollutant emission source detection using satellite imagery and multimodal deep learning (🏆 President's Award from NIA) <a href="https://github.com/GiHyeokKwon/DCC2025.git">...go</li>
+            <li><b>Design of a QR-Based Standing Passenger Risk Notification Service Using AI Models for
+Transportation-Vulnerable Individuals</b>, KT, Korea Road Traffic Authority, Korea / Development
+of LightGBM-Based Classification and Regression Models for Standing Detection and Durati
+(May. 2026 ~ Present)</li>
+            <li><b>Development of a Home Service Robot Focusing on Human-Robot Interaction and Real-Life
+Applicability</b>, RoboCup@Home 2026, Korea / Development of Object Grasping and Manipulation
+Pipeline for Household Tasks (Dec. 2025 ~ Feb. 2026)</li>
+            <li><b>Detection of Air Pollution Emission Sources Using Satellite Imagery and Multimodal Deep
+Learning</b>, Ministry of Science and ICT, Korea / Multimodal Deep Learning Model
+Implementation and Data Analysis (Aug. 2025 ~ Dec. 2025)(🏆 President's Award from NIA) <a href="https://github.com/GiHyeokKwon/DCC2025.git">...go</li>
         </ul>
         <h2>🪄 Research & Interests:</h2>
         <ul>
