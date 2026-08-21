@@ -32,13 +32,13 @@
             <li><b>Design of a QR-Based Standing Passenger Risk Notification Service Using AI Models for
 Transportation-Vulnerable Individuals</b>, KT, Korea Road Traffic Authority, Korea / Development
 of LightGBM-Based Classification and Regression Models for Standing Detection and Durati
-(May. 2026 ~ Present)</li>
+(May. 2026 ~ Present) <a href="https://github.com/GiHyeokKwon/standing-risk-prediction"> ...go</a></li>
             <li><b>Development of a Home Service Robot Focusing on Human-Robot Interaction and Real-Life
 Applicability</b>, RoboCup@Home 2026, Korea / Development of Object Grasping and Manipulation
 Pipeline for Household Tasks (Dec. 2025 ~ Feb. 2026)</li>
             <li><b>Detection of Air Pollution Emission Sources Using Satellite Imagery and Multimodal Deep
 Learning</b>, Ministry of Science and ICT, Korea / Multimodal Deep Learning Model
-Implementation and Data Analysis (Aug. 2025 ~ Dec. 2025) <a href="https://github.com/GiHyeokKwon/DCC2025.git">...go</li>
+Implementation and Data Analysis (Aug. 2025 ~ Dec. 2025) <a href="https://github.com/GiHyeokKwon/DCC2025.git"> ...go</a></li>
         </ul>
         <h2>🪄 Research & Interests:</h2>
         <ul>
