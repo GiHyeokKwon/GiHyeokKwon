@@ -11,7 +11,7 @@
         <ul>
             <li><b>Research Student</b>, Computer Vision & Image Processing Lab (Jun. 2025 ~ Dec. 2025)</li>
             <li><b>Military Service at Republic of Korea Air Force</b> (Jul. 2023 ~ Apr. 2025)</li>
-            <li><b>Inha University, Korea</b> | B.S. in Electrical and Electronic Engineering (Mar. 2022 ~ present)</li>
+            <li><b>Inha University, Korea</b> | B.S. in Electrical and Electronic Engineering (Mar. 2022 ~ present) <br>GPA 4.39 / 4.50 (Rank 3 / 376, Top 0.8%)</li>
         </ul>
         * I'm highly interested in <b>Computer Vision</b> and <b>Physical AI</b>.
         <h2>🏆 Awards</h2>
