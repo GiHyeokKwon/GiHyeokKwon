@@ -48,6 +48,7 @@ Implementation and Data Analysis (Aug. 2025 ~ Dec. 2025) <a href="https://github
         </ul>
         <h2>📜 Certifications</h2>
         <ul>
+            <li>AICE Associate</li>
             <li>SQL Developer (SQLD)</li>
             <li>Linux Master Level 2</li>
         </ul>
